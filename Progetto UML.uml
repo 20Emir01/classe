@@ -26,7 +26,7 @@
       <fontname>Dialog</fontname>
       <fontsize>12</fontsize>
       <defaultstereotypeview>0</defaultstereotypeview>
-      <activediagram>Diagramma dei Casi d&apos;Uso</activediagram>
+      <activediagram>Diagramma di Sequenza</activediagram>
     </settings>
     <searchpath href="PROJECT_DIR" />
     <members>
@@ -62,7 +62,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Wed Jun 14 17:19:38 CEST 2023'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Wed Jun 14 17:43:38 CEST 2023'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -2778,8 +2778,8 @@
       />
     </group>
     <rectangle name="Fig1.3"
-      x="-158"
-      y="42"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -2789,7 +2789,7 @@
       visibility="0"
     />
     <group name="Fig1.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[-158, 42, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-24--32-1--1f79aeac:1889652d649:-8000:0000000000000867"
          fill="1"
          fillcolor="white"
@@ -2801,8 +2801,8 @@
       </private>
       
       <rectangle name="Fig1.4.0"
-        x="-158"
-        y="42"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -2875,7 +2875,7 @@
     </group>
     <rectangle name="Fig2.3"
       x="10"
-      y="26"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -2885,7 +2885,7 @@
       visibility="0"
     />
     <group name="Fig2.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 26, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-24--32-1--1f79aeac:1889652d649:-8000:0000000000000868"
          fill="1"
          fillcolor="white"
@@ -2898,7 +2898,7 @@
       
       <rectangle name="Fig2.4.0"
         x="10"
-        y="26"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -2970,8 +2970,8 @@
       />
     </group>
     <rectangle name="Fig3.3"
-      x="-6"
-      y="26"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -2981,7 +2981,7 @@
       visibility="0"
     />
     <group name="Fig3.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[-6, 26, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-24--32-1--1f79aeac:1889652d649:-8000:0000000000000869"
          fill="1"
          fillcolor="white"
@@ -2993,8 +2993,8 @@
       </private>
       
       <rectangle name="Fig3.4.0"
-        x="-6"
-        y="26"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -3237,8 +3237,8 @@
       />
     </group>
     <rectangle name="Fig7.3"
-      x="-14"
-      y="34"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -3248,7 +3248,7 @@
       visibility="0"
     />
     <group name="Fig7.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[-14, 34, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-24--32-1--1f79aeac:1889652d649:-8000:0000000000000878"
          fill="1"
          fillcolor="white"
@@ -3260,8 +3260,8 @@
       </private>
       
       <rectangle name="Fig7.4.0"
-        x="-14"
-        y="34"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -3390,8 +3390,8 @@
       />
     </group>
     <rectangle name="Fig9.3"
-      x="-246"
-      y="34"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -3401,7 +3401,7 @@
       visibility="0"
     />
     <group name="Fig9.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[-246, 34, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-24--32-1--1f79aeac:1889652d649:-8000:000000000000088A"
          fill="1"
          fillcolor="white"
@@ -3413,8 +3413,8 @@
       </private>
       
       <rectangle name="Fig9.4.0"
-        x="-246"
-        y="34"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -3486,8 +3486,8 @@
       />
     </group>
     <rectangle name="Fig10.3"
-      x="18"
-      y="18"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -3497,7 +3497,7 @@
       visibility="0"
     />
     <group name="Fig10.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[18, 18, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-84-24--32-1--1f79aeac:1889652d649:-8000:000000000000088F"
          fill="1"
          fillcolor="white"
@@ -3509,8 +3509,8 @@
       </private>
       
       <rectangle name="Fig10.4.0"
-        x="18"
-        y="18"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -3673,7 +3673,7 @@
       justification="Center"
     >MATERIE</text>
     <group name="Fig13.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[971, 239, 87, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[984, 239, 64, 0]"
          href="-64--88-11-65-5a93b020:188ba745a44:-8000:0000000000000B40"
          fill="0"
          fillcolor="white"
@@ -3685,9 +3685,9 @@
       </private>
       
       <rectangle name="Fig13.2.0"
-        x="971"
+        x="984"
         y="239"
-        width="87"
+        width="64"
         height="0"
         fill="0"
         fillcolor="white"
@@ -3696,8 +3696,8 @@
       />
     </group>
     <rectangle name="Fig13.3"
-      x="970"
-      y="240"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -3707,7 +3707,7 @@
       visibility="0"
     />
     <group name="Fig13.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[970, 240, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-64--88-11-65-5a93b020:188ba745a44:-8000:0000000000000B40"
          fill="1"
          fillcolor="white"
@@ -3719,8 +3719,8 @@
       </private>
       
       <rectangle name="Fig13.4.0"
-        x="970"
-        y="240"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -3776,7 +3776,7 @@
                         offset="5" />
     </private>
     <path name="Fig14.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -3789,7 +3789,7 @@
     </path>
   </group>
   <group name="Fig15"
-       description="org.argouml.uml.diagram.use_case.ui.FigUseCase[920, 72, 382, 98]pathVisible=false;stereotypeView=0;extensionPointVisible=false"
+       description="org.argouml.uml.diagram.use_case.ui.FigUseCase[920, 72, 384, 98]pathVisible=false;stereotypeView=0;extensionPointVisible=false"
        href="-64--88-11-65-5a93b020:188ba745a44:-8000:0000000000000B49"
        fill="1"
        fillcolor="white"
@@ -3800,9 +3800,9 @@
     </private>
     
     <ellipse name="Fig15.0"
-      x="1111"
+      x="1112"
       y="121"
-      rx="191"
+      rx="192"
       ry="49"
       fill="1"
       fillcolor="white"
@@ -3810,7 +3810,7 @@
       strokecolor="black"
     />
     <text name="Fig15.1"
-      x="929"
+      x="930"
       y="109"
       width="364"
       height="23"
@@ -3826,7 +3826,7 @@
       justification="Center"
     >INSERIMENTO, MODIFICA, VISUALIZZAZIONE, CANCELLAZIONE</text>
     <group name="Fig15.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[931, 81, 87, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[930, 109, 364, 0]"
          href="-64--88-11-65-5a93b020:188ba745a44:-8000:0000000000000B49"
          fill="0"
          fillcolor="white"
@@ -3838,9 +3838,9 @@
       </private>
       
       <rectangle name="Fig15.2.0"
-        x="931"
-        y="81"
-        width="87"
+        x="930"
+        y="109"
+        width="364"
         height="0"
         fill="0"
         fillcolor="white"
@@ -3849,8 +3849,8 @@
       />
     </group>
     <rectangle name="Fig15.3"
-      x="930"
-      y="82"
+      x="10"
+      y="10"
       width="11"
       height="1"
       fill="1"
@@ -3860,7 +3860,7 @@
       visibility="0"
     />
     <group name="Fig15.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[930, 82, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[10, 10, 64, 19]"
          href="-64--88-11-65-5a93b020:188ba745a44:-8000:0000000000000B49"
          fill="1"
          fillcolor="white"
@@ -3872,8 +3872,8 @@
       </private>
       
       <rectangle name="Fig15.4.0"
-        x="930"
-        y="82"
+        x="10"
+        y="10"
         width="64"
         height="19"
         fill="0"
@@ -3929,7 +3929,7 @@
                         offset="5" />
     </private>
     <path name="Fig16.0"
-      description="org.tigris.gef.presentation.FigPoly"
+      description="org.argouml.gefext.ArgoFigPoly"
       fill="0"
       fillcolor="white"
       stroke="1"
@@ -3937,7 +3937,7 @@
     >
       <moveto x="1029"
               y="232" />
-      <lineto x="1075"
+      <lineto x="1076"
               y="169" />
     </path>
   </group>
@@ -3946,7 +3946,7 @@
       name="Diagramma di Sequenza"
 >
   <group name="Fig0"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[208, 72, 144, 851]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[208, 72, 144, 847]pathVisible=false;stereotypeView=0;"
        href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AF8"
        fill="1"
        fillcolor="white"
@@ -3960,7 +3960,7 @@
       x="208"
       y="72"
       width="144"
-      height="851"
+      height="847"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -3978,7 +3978,7 @@
       strokecolor="black"
     />
     <group name="Fig0.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[208, 121, 144, 801]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[208, 121, 144, 797]"
          href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AF8"
          fill="1"
          fillcolor="white"
@@ -3992,7 +3992,7 @@
         x="208"
         y="121"
         width="144"
-        height="801"
+        height="797"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4008,10 +4008,10 @@
         <moveto x="280"
                 y="121" />
         <lineto x="280"
-                y="922" />
+                y="918" />
       </path>
       <group name="Fig0.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[270, 121, 20, 801]"
+           description="org.argouml.sequence2.diagram.FigActivation[270, 121, 20, 797]"
            href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AF8"
            fill="1"
            fillcolor="white"
@@ -4025,7 +4025,7 @@
           x="270"
           y="121"
           width="20"
-          height="801"
+          height="797"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4095,7 +4095,7 @@
     </group>
   </group>
   <group name="Fig1"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[544, 72, 150, 850]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[544, 72, 150, 846]pathVisible=false;stereotypeView=0;"
        href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AFB"
        fill="1"
        fillcolor="white"
@@ -4109,7 +4109,7 @@
       x="544"
       y="72"
       width="150"
-      height="850"
+      height="846"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4127,7 +4127,7 @@
       strokecolor="black"
     />
     <group name="Fig1.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[544, 121, 150, 800]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[544, 121, 150, 796]"
          href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AFB"
          fill="1"
          fillcolor="white"
@@ -4141,7 +4141,7 @@
         x="544"
         y="121"
         width="150"
-        height="800"
+        height="796"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4157,10 +4157,10 @@
         <moveto x="619"
                 y="121" />
         <lineto x="619"
-                y="921" />
+                y="917" />
       </path>
       <group name="Fig1.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[609, 121, 20, 800]"
+           description="org.argouml.sequence2.diagram.FigActivation[609, 121, 20, 796]"
            href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AFB"
            fill="1"
            fillcolor="white"
@@ -4174,7 +4174,7 @@
           x="609"
           y="121"
           width="20"
-          height="800"
+          height="796"
           fill="1"
           fillcolor="white"
           stroke="1"
@@ -4244,7 +4244,7 @@
     </group>
   </group>
   <group name="Fig2"
-       description="org.argouml.sequence2.diagram.FigClassifierRole[872, 72, 150, 851]pathVisible=false;stereotypeView=0;"
+       description="org.argouml.sequence2.diagram.FigClassifierRole[872, 72, 150, 847]pathVisible=false;stereotypeView=0;"
        href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AFE"
        fill="1"
        fillcolor="white"
@@ -4258,7 +4258,7 @@
       x="872"
       y="72"
       width="150"
-      height="851"
+      height="847"
       fill="0"
       fillcolor="white"
       stroke="0"
@@ -4276,7 +4276,7 @@
       strokecolor="black"
     />
     <group name="Fig2.2"
-         description="org.argouml.sequence2.diagram.FigLifeLine[872, 121, 150, 801]"
+         description="org.argouml.sequence2.diagram.FigLifeLine[872, 121, 150, 797]"
          href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AFE"
          fill="1"
          fillcolor="white"
@@ -4290,7 +4290,7 @@
         x="872"
         y="121"
         width="150"
-        height="801"
+        height="797"
         fill="0"
         fillcolor="white"
         stroke="0"
@@ -4306,10 +4306,10 @@
         <moveto x="947"
                 y="121" />
         <lineto x="947"
-                y="922" />
+                y="918" />
       </path>
       <group name="Fig2.2.2"
-           description="org.argouml.sequence2.diagram.FigActivation[937, 121, 20, 801]"
+           description="org.argouml.sequence2.diagram.FigActivation[937, 121, 20, 797]"
            href="-64--88-11-65-62f9dffd:188ba0e4572:-8000:0000000000000AFE"
            fill="1"
            fillcolor="white"
@@ -4323,7 +4323,7 @@
           x="937"
           y="121"
           width="20"
-          height="801"
+          height="797"
           fill="1"
           fillcolor="white"
           stroke="1"
